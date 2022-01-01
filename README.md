@@ -1,4 +1,8 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Olivia Seow</h3>
+<p align="center">
+  <a href="http://oliviaseow.com">Website</a> |
+  <a href="https://twitter.com/ollywogs">Twitter</a>
+</p>
 
 <!--
 **oliviaseow/oliviaseow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
